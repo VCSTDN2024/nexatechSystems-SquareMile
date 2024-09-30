@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243273415220",
+    "project_id": "squaremilev1",
+    "storage_bucket": "squaremilev1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243273415220:android:51fff34b562629d6e1e861",
+        "android_client_info": {
+          "package_name": "com.example.squaremilev1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCcUnw954oHWzyLmdeijomb81h-P6s0ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
